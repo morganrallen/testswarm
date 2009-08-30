@@ -306,3 +306,15 @@ ul.clients li img {
 ul.clients li img.msie {
 	margin-top: -2px;
 }
+
+ul.clients li strong {
+	display: block;
+}
+
+textarea, input, label {
+	display: block;
+}
+
+div.join input {
+	display:inline;
+}

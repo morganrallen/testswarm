@@ -58,7 +58,7 @@
 			$name = "Linux";
 		}
 
-		echo "<li><img src='/images/$engine.sm.png' class='$engine'/> <strong class='name'>$browser_name $name</strong><br>Connected <span title='$since' class='pretty'>$since</span></li>";
+		echo "<li><img src='/images/$engine.sm.png' class='$engine'/> <strong class='name'>$browser_name $name</strong> Connected <span title='$since' class='pretty'>$since</span></li>";
 	}
 
 	echo "</ul>";
